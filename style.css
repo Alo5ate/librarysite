@@ -198,7 +198,7 @@ header{
     display: none;
 }
 .book img{
-    width:80%;
+    width:90%;
     border-radius:4px;
 }
 .book-container{
@@ -297,7 +297,7 @@ header{
     max-height: 140px;  
 }
 
-@media(min-width:768px){
+@media(min-width:600px){
     .section-title{
         display:block;
         font-size:2rem;
