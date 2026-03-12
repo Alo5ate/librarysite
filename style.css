@@ -17,7 +17,7 @@ main{
     box-sizing: border-box; 
 }
 header{
-    background:#232f3e;
+    background:#211832;
     color:white;
     padding:15px;
     position:sticky;
@@ -63,7 +63,7 @@ header{
 .search-bar button{
     padding:8px 12px;
     border: none;
-    background:#febd69;
+    background:#F25912;
     cursor:pointer;
     border-radius: 5%;
 }
@@ -389,7 +389,7 @@ header{
         gap: 12px;
     }
     .reading-buttons button:hover{
-        background: #232f3e;     
+        background: #F25912;     
     }
     .nav-btn:hover {
         background: #37475a;        
@@ -422,5 +422,9 @@ header{
         width: auto;
         gap: 10px;
         padding-bottom: 0;
+    }
+    .book img{
+        width:80%;
+        border-radius:4px;
     }
 }
